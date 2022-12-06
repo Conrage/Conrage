@@ -5,8 +5,8 @@
 <br />
 <br />
 
-<h5 align="center">I'm a brazilian self-taught Full Stack developer</h5>
-<h5 align="center">💼 Full Stack Engineer at <a href="http://opens.com.br">Opens Tecnologia</a></h5>
+<h5 align="center">I'm a brazilian self-taught Front End developer</h5>
+<h5 align="center">💼 Front End Engineer at <a href="http://opens.com.br">Opens Tecnologia</a></h5>
 <h5 align="center">❤️ Passionate for Front End development and UI Design</h5>
 
 <br />
